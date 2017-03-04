@@ -1,0 +1,4 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:quintusdias/quintusdias.github.io.git
+	ignore = all
